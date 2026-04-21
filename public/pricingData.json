@@ -1,0 +1,45 @@
+[
+  {
+    "plan": "Basic",
+    "price": 1500,
+    "id": 1,
+    "duration": "Monthly",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Open gym hours",
+      "Basic fitness guidance"
+    ],
+    "popular": false
+  },
+  {
+    "plan": "Standard",
+    "price": 2500,
+    "id": 2,
+    "duration": "Monthly",
+    "description": "Best for regular members who want more support.",
+    "features": [
+      "All Basic features",
+      "Personal trainer (2 sessions/week)",
+      "Diet plan guidance",
+      "Access to group classes (Zumba, Yoga)"
+    ],
+    "popular": true
+  },
+  {
+    "plan": "Premium",
+    "price": 4000,
+    "id": 3,
+    "duration": "Monthly",
+    "description": "For serious fitness enthusiasts who want full support.",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "Custom workout & diet plan",
+      "Steam/sauna access",
+      "Priority support"
+    ],
+    "popular": false
+  }
+]
