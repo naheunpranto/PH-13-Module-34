@@ -16,6 +16,7 @@
   {
     "plan": "Standard",
     "price": 2500,
+    "best": true,
     "id": 2,
     "duration": "Monthly",
     "description": "Best for regular members who want more support.",
